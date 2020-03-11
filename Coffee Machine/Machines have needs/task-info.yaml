@@ -123,6 +123,9 @@ files:
 - name: src/machine/CoffeeCalculate.java
   visible: true
   learner_created: true
+- name: src/machine/test/CoffeeCalculateMust.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/33/stages/176/implement
 status: Unchecked
 record: -1
