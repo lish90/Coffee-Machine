@@ -11,3 +11,4 @@ package machine;
          System.out.println("Coffee is ready!");
         }
  }
+
